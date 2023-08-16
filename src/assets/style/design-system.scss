@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+$font-family: 'Lexend', sans-serif;
+
+// FONT SIZES
+$font-xs: 12px;
+$font-sm: 14px;
+$font-md: 16px;
+$font-lg: 20px;
+$font-xl: 24px;
+$font-xxl: 28px;
+$font-3xl: 32px;
+
+// FONT WEIGHTS
+$font-normal: 400;
+$font-bold: 700;
+
+// BORDER RADIUS
+$radius-button: 48px;
+$radius-general: 16px;
+
+// PADDING
+$padding-md: 40px;
+$padding-sm: 40px 16px;
+$button-lg: 20px 32px;
+$button-md: 16px 24px;
+$button-sm: 8px 16px;
+
+// COLOR PRESETS
+$text-title: #333333;
+$text-body: #666666;
+$text-field: #B3B3B3;
+$text-disable: #CCCCCC;
+$text-white: #FFFFFF;
+
+$bg-black: #000000;
+$bg-white: #FFFFFF;
+$bg-light-grey: #FAFAFA;
+$bg-light-blue: #F8FBFC;
+
+$info-positive: #53C362;
+$info-warning: #F3CB66;
+$info-negative: #F81414;
+$info-disable: #F0F0F0;
+
+$black-GFDP: #333333;
+$grey-GFDP: #A6A6A6;
+$light-grey-GFDP: #F4F4F4;
+
+$blue-GFDP: #00B5FF;
+$mid-blue-GFDP: #2C7CFF;
+$dark-blue-GFDP: #0564BA;
+
+$green-GFDP: #6CD125;
+$mid-green-GFDP: #42B516;
+$dark-green-GFDP: #0C8204;
+
+$brown-GFDP: #D66B07;
+$mid-brown-GFDP: #B55213;
+$dark-brown-GFDP: #70341C;
+
+$yellow-GFDP: #FFBF0D;
+$mid-yellow-GFDP: #FF9E00;
+$dark-yellow-GFDP: #F57F00;

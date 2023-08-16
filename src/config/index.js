@@ -1,0 +1,1 @@
+export { default as PagesRoutes } from "./pages-routes";

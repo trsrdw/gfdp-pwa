@@ -1,0 +1,15 @@
+@import '../../../assets/style/design-system.scss';
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: $bg-white;
+    padding: 24px 72px;
+
+    .left,
+    .middle,
+    .right {
+        display: flex;
+        align-items: center;
+    }
+}

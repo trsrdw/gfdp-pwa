@@ -1,0 +1,76 @@
+@import '../../../../assets/style/design-system.scss';
+
+.primary {
+    border: 1px solid $blue-GFDP;
+    padding: $button-md;
+    background-color: $blue-GFDP;
+    border-radius: $radius-button;
+    color: $text-white;
+    font-family: $font-family;
+    font-size: $font-sm;
+    font-weight: $font-bold;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+.primary:hover {
+    background-color: $mid-blue-GFDP;
+    border-color: $mid-blue-GFDP;
+    transition: 150ms ease-in-out;
+}
+
+.secondary {
+    border: 1px solid $text-field;
+    padding: $button-md;
+    background-color: $bg-white;
+    border-radius: $radius-button;
+    color: $text-title;
+    font-family: $font-family;
+    font-size: $font-sm;
+    font-weight: $font-bold;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+.secondary:hover {
+    background-color: $info-disable;
+    transition: 150ms ease-in-out;
+}
+
+.green {
+    border: 1px solid $green-GFDP;
+    padding: $button-md;
+    background-color: $green-GFDP;
+    border-radius: $radius-button;
+    color: $text-white;
+    font-family: $font-family;
+    font-size: $font-sm;
+    font-weight: $font-bold;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+.green:hover {
+    background-color: $mid-green-GFDP;
+    border-color: $mid-green-GFDP;
+    transition: 150ms ease-in-out;
+}
+
+.transparent {
+    border: 1px solid $text-white;
+    padding: $button-md;
+    background-color: transparent;
+    border-radius: $radius-button;
+    color: $text-white;
+    font-family: $font-family;
+    font-size: $font-sm;
+    font-weight: $font-bold;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+.transparent:hover {
+    background-color: $bg-white;
+    color: $text-title;
+    transition: 150ms ease-in-out;
+}
